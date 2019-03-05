@@ -1,5 +1,8 @@
 package com.code_sort;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class simpleSort {
 
 	public String Sample() {
@@ -28,4 +31,10 @@ public class simpleSort {
 		System.out.println("lets finished first !");
 
 		System.out.println("finally done1325 !");
+
+		List mylist = new ArrayList();
+
+		mylist.add("gaurav");
+		mylist.add("jagdish");
+		System.out.println(mylist);
 	}}
