@@ -21,7 +21,7 @@ public class simpleSort {
 		System.out.println("lets conflict !");
 
 		for (int i =0;i<10;i++){
-			System.out.println("learning new tech.!");
+			System.out.println("learning new .!");
 		}
 		System.out.println("lets finished first !");
 
