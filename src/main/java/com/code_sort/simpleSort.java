@@ -23,6 +23,7 @@ public class simpleSort {
 		for (int i =0;i<10;i++){
 			System.out.println("learning !");
 			System.out.println("learning !");
+			System.out.println("learning new .!");
 		}
 		System.out.println("lets finished first !");
 
