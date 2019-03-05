@@ -13,7 +13,10 @@ public class simpleSort {
 
 		System.out.println("test maven ! Jagdish is not able to take pull007");
 
-		System.out.println("My Name is XYZ !");
+		System.out.println("My Name is XYZ00 !");
+
+		System.out.println("My Name is XYZ00 !");
+
 
 		System.out.println("lets conflict !");
 	}}
