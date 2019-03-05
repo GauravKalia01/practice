@@ -19,4 +19,8 @@ public class simpleSort {
 
 
 		System.out.println("lets conflict !");
+
+		System.out.println("lets finished first !");
+
+		System.out.println("finally done !");
 	}}
