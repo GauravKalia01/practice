@@ -15,7 +15,7 @@ public class simpleSort {
 
 		System.out.println("My Name is XYZ00 !");
 
-		System.out.println("My Name is XYZ00 !");
+		System.out.println("My Name is XYZ12 !");
 
 
 		System.out.println("lets conflict !");
