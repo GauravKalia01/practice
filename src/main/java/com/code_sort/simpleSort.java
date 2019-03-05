@@ -15,4 +15,4 @@ public class simpleSort {
 
 		System.out.println("My Name is XYZ22 !");
 
-	}}}}
+	}}
