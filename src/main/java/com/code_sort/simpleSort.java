@@ -8,5 +8,8 @@ public class simpleSort {
 	public static void main( String[] args ) {
 		System.out.println("test maven !");
 		System.out.println("test maven !");
+		System.out.println("test maven123 !");
+
+
 	}
 }
