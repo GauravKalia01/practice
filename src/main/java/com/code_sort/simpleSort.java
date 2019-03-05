@@ -12,9 +12,9 @@ public class simpleSort {
 		System.out.println("test maven !");
 		System.out.println("test maven !");
 		System.out.println("test maven ! gaurav changes");
-		System.out.println("test maven ! Jagdish is not able to take pull");
+		System.out.println("test maven ! We are not able to take pull");
 
-		System.out.println("test maven ! Jagdish is not able to take pull007");
+		System.out.println("test maven ! Jagdish is  able to take pull007");
 
 		System.out.println("My Name is XYZ00 !");
 
