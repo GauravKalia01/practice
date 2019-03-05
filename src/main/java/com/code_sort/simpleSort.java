@@ -10,31 +10,19 @@ public class simpleSort {
 	}
 	public static void main( String[] args ) {
 		System.out.println("test maven !");
-		System.out.println("test maven !");
-		System.out.println("test maven ! gaurav changes");
-		System.out.println("test maven ! Jagdish is not able to take pull");
+		System.out.println("Gaurav and Jagdish repository");
 
-		System.out.println("test maven ! Jagdish is not able to take pull007");
-
-		System.out.println("My Name is XYZ00 !");
-
-		System.out.println("My Name is XYZ12 !");
-
-
-		System.out.println("lets conflict !");
-
-		for (int i =0;i<10;i++){
-
-			System.out.println("learning !");
-			System.out.println("learning new .!");
-		}
-		System.out.println("lets finished first !");
-
-		System.out.println("finally done1325 !");
+		System.out.println("-- This is our Practice for march");
 //added a list
 		List mylist = new ArrayList();
 
 		mylist.add("gaurav");
 		mylist.add("jagdish");
-		System.out.println(mylist);
+		System.out.println("who all are currently working on this repo : " + mylist);
+
+//Creating an object for practice_class
+		practice_lists obj = new practice_lists();
+
+//calling function
+		obj.listPrac();
 	}}
