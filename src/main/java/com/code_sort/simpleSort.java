@@ -18,7 +18,7 @@ public class simpleSort {
 
 		mylist.add("gaurav");
 		mylist.add("jagdish");
-		System.out.println("who all are currently working on this repo :" + mylist);
+		System.out.println("who all are currently working on this repo : " + mylist);
 
 //Creating an object for practice_class
 		practice_lists obj = new practice_lists();
