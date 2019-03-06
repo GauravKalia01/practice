@@ -27,4 +27,5 @@ public class simpleSort {
 
 //calling function
 		obj.listPrac();
+
 	}}
