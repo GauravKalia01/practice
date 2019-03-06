@@ -16,8 +16,8 @@ public class simpleSort {
 //added a list
 		List mylist = new ArrayList();
 
-		mylist.add("gaurav");
-		mylist.add("jagdish");
+		mylist.add("Gaurav");
+		mylist.add("Jagdish");
 		System.out.println("who all are currently working on this repo : " + mylist);
 
 //Creating an object for practice_class
