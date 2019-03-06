@@ -43,6 +43,11 @@ public class practice_lists {
     List copiedList = new ArrayList();
         copiedList.addAll(StackList);
         System.out.print("Elements in copied list" + copiedList);
+
+
+
     }
+
+
 
 }
