@@ -9,8 +9,18 @@ public class practice_lists {
 
         //Jagdish tomorrow you need to add all the qa people of Clearstream name here in the list
         List testList = new ArrayList();
-        testList.add("need to practice list");
-        testList.add("for our learning");
+        testList.add("Jagdish");
+        testList.add("Gaurav");
+        testList.add("Jay");
+        testList.add("Gaurav S");
+        testList.add("Ronak");
+        testList.add("Arpit");
+        testList.add("Anand");
+        testList.add("Nisha");
+        testList.add("Supradip");
+        testList.add("Pratik");
+
+
         System.out.println("Clearstream QA : "+ testList);
 
     }
