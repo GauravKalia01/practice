@@ -23,6 +23,8 @@ public class simpleSort {
 //Creating an object for practice_class
 		practice_lists obj = new practice_lists();
 
+
+
 //calling function
 		obj.listPrac();
 	}}
