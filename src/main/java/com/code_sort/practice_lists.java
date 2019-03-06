@@ -24,6 +24,7 @@ public class practice_lists {
 
 
         System.out.println("Clearstream QA : "+ testList);
+        System.out.println("Welcome to all into QA team");
         System.out.println("-------------------------------");
 //Added a StackList
         List StackList = new Stack();
