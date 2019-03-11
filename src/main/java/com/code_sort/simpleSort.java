@@ -1,5 +1,7 @@
 package com.code_sort;
 
+import org.apache.log4j.BasicConfigurator;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -9,6 +11,8 @@ public class simpleSort {
 		return "sample";
 	}
 	public static void main( String[] args ) {
+		BasicConfigurator.configure();
+
 		System.out.println("test maven !");
 		System.out.println("Gaurav and Jagdish repository");
 
