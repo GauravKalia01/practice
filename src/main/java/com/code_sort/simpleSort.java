@@ -1,5 +1,7 @@
 package com.code_sort;
 
+import org.apache.log4j.BasicConfigurator;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -9,6 +11,8 @@ public class simpleSort {
 		return "sample";
 	}
 	public static void main( String[] args ) {
+		BasicConfigurator.configure();
+
 		System.out.println("test maven !");
 		System.out.println("Gaurav and Jagdish repository");
 
@@ -16,8 +20,8 @@ public class simpleSort {
 //added a list
 		List mylist = new ArrayList();
 
-		mylist.add("gaurav");
-		mylist.add("jagdish");
+		mylist.add("Gaurav");
+		mylist.add("Jagdish");
 		System.out.println("who all are currently working on this repo : " + mylist);
 
 //Creating an object for practice_class
